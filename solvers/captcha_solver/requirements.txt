@@ -1,0 +1,17 @@
+# Core API Framework
+quart>=0.20.0
+hypercorn>=0.17.0
+aiohttp>=3.8.0
+
+# Browser Automation
+playwright>=1.40.0
+camoufox[geoip]>=0.3.0
+
+# Image Processing
+pillow>=10.0.0
+
+# Async Support
+aiofiles>=24.0.0
+
+# Utilities
+python-dotenv>=1.0.0
